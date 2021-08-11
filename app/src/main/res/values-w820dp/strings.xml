@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_UserName_Hint">Enter User Name</string>
+    <string name="userPassword_Hint">Enter Password</string>
+    <string name="register_label">Register New user</string>
+    <string name="userName_Hint">Enter User Name</string>
+    <string name="fullName_Hint"><![CDATA[Enter Name & Surname]]></string>
+    <string name="password_Hint">Enter Password</string>
+    <string name="confirm_password_Hint">Confirm Password</string>
+    <string name="login_description">Login Logo</string>
+    <string name="registerBtn_Name">Register</string>
+    <string name="resetBtn_Name">Reset</string>
+    <string name="loginBtn_Name">Login</string>
+    <string name="registerSubmitBtn_Name">Register</string>
+    <string name="logo_Description">Welcome Logo</string>
+    <string name="reset_label">Password Reset</string>
+</resources>

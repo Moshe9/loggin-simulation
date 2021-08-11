@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Login Simulation</string>
+    <string name="login_UserName_Hint">Enter User Name</string>
+    <string name="userPassword_Hint">Enter Password</string>
+    <string name="register_label">Register New user</string>
+    <string name="welcome_label">Welcome</string>
+    <string name="userName_Hint">Enter User Name</string>
+    <string name="fullName_Hint">Enter Name &amp; Surname</string>
+    <string name="password_Hint">Enter Password</string>
+    <string name="confirm_password_Hint">Confirm Password</string>
+    <string name="login_description">Login Logo</string>
+    <string name="registerBtn_Name">Register</string>
+    <string name="resetBtn_Name">Reset</string>
+    <string name="loginBtn_Name">Login</string>
+    <string name="registerSubmitBtn_Name">Register</string>
+    <string name="logo_Description">Welcome Logo</string>
+    <string name="reset_label">Reset Password</string>
+    <string name="welcome_message">Welcome: %1$s</string>
+    <string name="passwordChange_message">Password Successfully Changed : %1$s</string>
+    <string name="logout_message">User : %1$s Successfully Logged Out</string>
+    <string name="registration_message">Successfully Registered User : %1$s</string>
+    <string name="missingDataError_Message">Please Fill All Fields To Continue</string>
+    <string name="password_Mismatch">Password and Password Confirmation Do Not Match</string>
+    <string name="passwordError_Message">"Please Reset Password With A New Password"</string>
+    <string name="noUserError_Message">Invalid Login Credentials.....Please Register To Proceed</string>
+    <string name="loginError_Message">Login Unsuccessful...Please Provide Valid UserName and Password</string>
+    <string name="duplicateError_Message">Please Provide A Unique User Name To Avoid Duplications....</string>
+    <string name="resetError_Message">Reset Unsuccessful...Please Provide Valid UserName and New Password</string>
+</resources>
